@@ -1,0 +1,34 @@
+{
+    "name": " GitHublinkIt",
+    "title": "GitHub jQuery Plugin",
+    "description": "jQuery plugin that link you to GitHub",
+    "keywords": [
+        "color",
+        "animation"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Mary Sia Gbondo",
+        "url": ""
+    },
+    "maintainers": [
+        {
+            "name": "Mary Sia Gbondo",
+            "email": "gbondomary@gmail.com",
+            "url": ""
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": ""
+        }
+    ],
+    "bugs": "",
+    "homepage": "",
+    "docs": "",
+    "download": "",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
